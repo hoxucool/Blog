@@ -1,5 +1,5 @@
 ---
-title: links
+title: 友链
 date: 2020-04-28 20:25:02
 type: links
 ---

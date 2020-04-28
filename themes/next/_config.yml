@@ -124,6 +124,7 @@ menu:
   #schedule: /schedule/ || fa fa-calendar
   sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
+  # Friendlinks: /links/ || fa fa-link
 
 # Enable / Disable menu icons / item badges.
 menu_settings:
@@ -204,8 +205,8 @@ links_settings:
 
 links:
   #Title: http://yoursite.com
-  Chunibyo: https://chunibyo-wly.github.io/
-  老yy: https://Yang1998cmd.github.io/
+  # Chunibyo: https://chunibyo-wly.github.io/
+  # 老yy: https://Yang1998cmd.github.io/
 
 # Table of Contents in the Sidebar
 # Front-matter variable (unsupport wrap expand_all).
@@ -365,7 +366,7 @@ codeblock:
     # Show text copy result.
     show_result: true
     # Available values: default | flat | mac
-    style: mac
+    style: flat
 
 back2top:
   enable: true
@@ -999,3 +1000,28 @@ vendors:
 css: css
 js: js
 images: images
+
+friendlinks:
+  # - nickname: 
+  #   avatar: https://s1.ax1x.com/2020/04/28/JI3Dyt.png||https://s1.ax1x.com/2020/04/28/JI3UFe.png
+  #   site: 
+  #   info: 
+  - nickname: "Xhofe's Blog"
+    avatar: https://blog.xhofe.top/images/avatar.jpg
+    site: https://blog.xhofe.top/
+    info: 在探索中前行，在失败中成长
+
+  - nickname: Chunibyo
+    avatar: https://chunibyo-wly.github.io/images/avatar.png
+    site: https://chunibyo-wly.github.io/
+    info: 先生能否卖我几斤仁义道德?
+
+  - nickname: 老yy
+    avatar: https://s1.ax1x.com/2020/04/28/JI3Dyt.png
+    site: https://Yang1998cmd.github.io/
+    info: 大佬没有想说的话
+
+  - nickname: OsznLove
+    avatar: https://s1.ax1x.com/2020/04/28/JI3Dyt.png
+    site: http://39.96.45.191:4000/
+    info: wu la!

@@ -129,7 +129,7 @@ menu:
 # Enable / Disable menu icons / item badges.
 menu_settings:
   icons: true
-  badges: false
+  badges: true
 
 
 # ---------------------------------------------------------------
@@ -1017,11 +1017,17 @@ friendlinks:
     info: 先生能否卖我几斤仁义道德?
 
   - nickname: 老yy
-    avatar: https://s1.ax1x.com/2020/04/28/JI3Dyt.png
+    avatar: https://yang1998cmd.github.io/pig.jpg
     site: https://Yang1998cmd.github.io/
-    info: 大佬没有想说的话
+    info: 爱你所爱，行你所行，听从你心，无问西东
 
   - nickname: OsznLove
     avatar: https://s1.ax1x.com/2020/04/28/JI3Dyt.png
     site: http://39.96.45.191:4000/
     info: wu la!
+
+  - nickname: wsx大佬
+    avatar: http://q1.qlogo.cn/g?b=qq&nk=246553278&s=640
+    site: https://fightinggg.github.io/
+    info: 相信不屈不挠的努力,相信战胜死亡的年轻
+    

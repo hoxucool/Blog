@@ -3,8 +3,12 @@ title: Github Actions的简单使用
 date: 2020-04-13 21:51:49
 updated: 2020-04-14 00:00:00
 tags: [CI/CD]
-categories: [使用教程]
+categories: [工具的使用]
 ---
+
+![Github Actions](https://cdn.jsdelivr.net/gh/Xhofe/picdn/2020/06/18/b9a333.png)
+
+<!-- more -->
 
 ### CI/CD
 

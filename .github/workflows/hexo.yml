@@ -37,6 +37,13 @@ jobs:
         hexo clean
         hexo generate
         
+    - name: config git
+      run: |
+        git config user.name "hoxucool"
+        git config user.email "hoxucool@foxmail.com"
+        git config --global user.name "hoxucool"
+        git config --global user.email "hoxucool@foxmail.com"
+        
     - name: deploy
       run: |
         git config user.name "hoxucool"

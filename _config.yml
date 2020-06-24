@@ -100,7 +100,7 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://gh_token@github.com/hoxcucool/Blog
+  repo: https://gh_token@github.com/hoxucool/Blog.git
   branch: gh-pages
 
 # hexo-symbols-count-time
